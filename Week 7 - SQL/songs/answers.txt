@@ -1,0 +1,4 @@
+if the average energy is high then it suggests that the listener enjoy energetic songs
+if the average valence is high it means that the listener likes happy cheerful type of music
+if the average danceability is high it most likely means that this listener's taste is inclined towards songs with a strong and danceable ryhtms and probably like dancing
+

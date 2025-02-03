@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+    <form action="/quoted" method="post">
+        <h5>
+            {{ name }}. Common Stock ({{ symbol }})costs {{ price }} per share.
+        </h2>
+    </form>
+{% endblock %}
